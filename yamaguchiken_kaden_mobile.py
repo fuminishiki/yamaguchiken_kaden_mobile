@@ -36,16 +36,16 @@ m
 folium.Marker(location=[34.069329,131.7603143],popup='家電住まいる館&YAMADA web.com新南陽店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.0021497,131.3489655],popup='ベスト電器宇部東店　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
+folium.Marker(location=[34.0021497,131.3489655],popup='ベスト電器 宇部東店　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[33.9626524,131.2386424],popup='ベスト電器山口宇部店　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
+folium.Marker(location=[33.9626524,131.2386424],popup='ベスト電器 山口宇部店　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.1605008,131.4701997],popup='ベスト電器山口店　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
+folium.Marker(location=[34.1605008,131.4701997],popup='ベスト電器 山口店　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.0066833,130.9371179],popup='ベスト電器ゆめシティ下関本店　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
+folium.Marker(location=[34.0066833,130.9371179],popup='ベスト電器 ゆめシティ下関本店　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[34.0103895,131.3529191],popup='ヤマダデンキ テックランド阿知須店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
