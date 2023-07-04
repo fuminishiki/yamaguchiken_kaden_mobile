@@ -36,9 +36,6 @@ m
 folium.Marker(location=[34.069329,131.7603143],popup='家電住まいる館&YAMADA web.com新南陽店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.0103895,131.3529191],popup='ヤマダデンキ テックランド阿知須店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.1737308,132.2253811],popup='ヤマダデンキ テックランド岩国店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
@@ -64,12 +61,6 @@ folium.Marker(location=[34.1388025,131.4420911],popup='ヤマダデンキ テッ
 m
 
 folium.Marker(location=[34.3757222,131.1943224],popup='ヤマダデンキ テックランドNew長門店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[33.9351959,131.254959],popup='ヤマダデンキ ヤマダアウトレット宇部東店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.0920629,132.0831675],popup='ヤマダデンキ ヤマダアウトレット玖珂店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[33.9319064,131.2565312],popup='コジマ×ビックカメラ 山口宇部空港店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightred")).add_to(m)
