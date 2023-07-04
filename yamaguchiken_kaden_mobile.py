@@ -78,12 +78,6 @@ m
 folium.Marker(location=[33.9762346,131.2059636],popup='ケーズデンキ 宇部店　　　　　　　　　',icon=folium.Icon(color="orange")).add_to(m)
 m
 
-folium.Marker(location=[34.0021497,131.3489655],popup='ベスト電器 宇部東店　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
-m
-
-folium.Marker(location=[33.9626524,131.2386424],popup='ベスト電器 山口宇部店　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
-m
-
 folium.Marker(location=[34.1605008,131.4701997],popup='ベスト電器 山口店　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
